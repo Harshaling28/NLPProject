@@ -16,7 +16,10 @@ This segment elucidates the methodology employed in this research, delineating t
 The dataset utilized in this investigation comprised customer feedback on Amazon products, encompassing 23,486 entries. The dataset included various attributes such as product ID, reviewer's age, review title, review text, rating, recommended indicators, positive feedback counts, division name, department name, and class name. The review text served as the basis for predicting product ratings, ranging from 1 (extremely negative) to 5 (extremely positive). This dataset is accessible on Kaggle [35]. Following an initial examination, around 845 missing reviews were identified and subsequently excluded, resulting in a final sample size of 22,641. The figure below shows the dataset is overview 
  
 ![alt text](https://github.com/Harshaling28/NLPProject/blob/main/nlppics/Picture9.png?raw=true)
+
 Visualizations, such as histograms which showed that most of the customers rated the products at 5
+
+![alt text](https://github.com/Harshaling28/NLPProject/blob/main/nlppics/Picture1.png?raw=true)
  
 	Data Augmentation
 Data augmentation is a widely employed practice in enhancing the training dataset to bolster the robustness of trained models, leading to improved performance in deep learning applications. This technique has found extensive use in computer and speech processing [9], and there is a growing interest in its application to textual data augmentation [8]. Given the inherent complexity of textual communications, characterized by syntax and semantic constraints, researchers have proposed various data augmentation techniques, including translations [10], question answering [39], and synonym replacement [11].
