@@ -44,6 +44,8 @@ The image depicts a word cloud with the words "sound baby" and "soft music" prom
 The word cloud highlights words like "money," "give," "broken," "expensive," "defective," "loud," "heavy," "expensive," "short," "totally," "annoying," "child," "batteries," "soft," "music," "quality," "ice," "mechanism," "price," "tone," "change," "movement," "well," "asleep," "looking for," "gift," and "hard." These words collectively paint a picture of a product that has been met with dissatisfaction and negative experiences among users. 
  
 
+ ![alt text](https://github.com/Harshaling28/NLPProject/blob/main/nlppics/Picture3.png?raw=true)
+
 The pie chart shows that 84.8% of the samples are positive, while 15.2% are negative. This indicates that the overall sentiment for the topic or subject being analyzed is strongly positive.
  
 
