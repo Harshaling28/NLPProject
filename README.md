@@ -39,6 +39,8 @@ Lemmatization	This will reduce words to their base form.	I love dresses so much
 WordClouds visually depict the most prominent words in our reviews. These images give us an immediate sense of the language used in positive and negative sentiments.
 The image depicts a word cloud with the words "sound baby" and "soft music" prominently used
 
+![alt text](https://github.com/Harshaling28/NLPProject/blob/main/nlppics/Picture2.png?raw=true)
+
 The word cloud highlights words like "money," "give," "broken," "expensive," "defective," "loud," "heavy," "expensive," "short," "totally," "annoying," "child," "batteries," "soft," "music," "quality," "ice," "mechanism," "price," "tone," "change," "movement," "well," "asleep," "looking for," "gift," and "hard." These words collectively paint a picture of a product that has been met with dissatisfaction and negative experiences among users. 
  
 
