@@ -47,6 +47,8 @@ The word cloud highlights words like "money," "give," "broken," "expensive," "de
  ![alt text](https://github.com/Harshaling28/NLPProject/blob/main/nlppics/Picture3.png?raw=true)
 
 The pie chart shows that 84.8% of the samples are positive, while 15.2% are negative. This indicates that the overall sentiment for the topic or subject being analyzed is strongly positive.
+
+![alt text](https://github.com/Harshaling28/NLPProject/blob/main/nlppics/Picture4.png?raw=true)
  
 
 	Tokenization and Lemmatization
